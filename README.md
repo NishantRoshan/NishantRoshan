@@ -26,8 +26,8 @@ Here are some ideas to get you started: -->
 
 <table style="width:100%">
   <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=nsingla20&show_icons=true&hide_border=true&hide=issues" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsingla20&layout=compact&langs_count=6" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=NishantRoshan&show_icons=true&hide_border=true&hide=issues" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishantRoshan&layout=compact&langs_count=6" /></th>
   </tr>
 </table>
 <br>
